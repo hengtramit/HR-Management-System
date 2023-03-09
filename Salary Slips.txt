@@ -1,0 +1,40 @@
+
+Your Salary Slips
+
+NAME: Tramit
+ID: 12345
+DEPARTMENT: CS
+Salary amount:
+Please print out the slips and confirm it with the Financial Department
+
+Signature
+
+
+
+__________
+Your Salary Slips
+
+NAME: Piseth
+ID: 1234
+DEPARTMENT: CS
+Salary amount:
+Please print out the slips and confirm it with the Financial Department
+
+Signature
+
+
+
+__________
+Your Salary Slips
+
+NAME: Heng Tramit
+ID: 123456
+DEPARTMENT: IT
+Salary amount:299.0
+Please print out the slips and confirm it with the Financial Department
+
+Signature
+
+
+
+__________

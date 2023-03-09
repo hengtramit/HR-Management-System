@@ -1,0 +1,4 @@
+123456;Heng Tramit;19;Male;078780840;IT;299.0;hengtramit@gmail.com
+234567;Vuth Watnakepiseth;19;Male;048375272;IT;487.0;piseth@gmail.com
+345678;Dalin;18;Female;012345678;HR;488.0;dalin@gmail.com
+456789;Uth Kimoun;19;Male;085727532;HR;657.0;kimoun@gmail.com
